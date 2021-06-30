@@ -1,1 +1,1 @@
-![Image 1](../images/image1.png)
+![Image 1](image1.png)
