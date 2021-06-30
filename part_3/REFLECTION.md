@@ -1,4 +1,4 @@
-# REFLECTIIN 
+# REFLECTION
 ### _Background_
 
 Before carrying out the tests, the defined scope was to carry out UI tests (Functional) on a web page with the requested scenario. I ran a short manual test to find out the flow so that I could then start automating it.
