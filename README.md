@@ -1,4 +1,4 @@
-## TEST AUTOMATION EXAMPLE WITH CUCUMBER SELENIUM AND JAVA
+## TEST AUTOMATION TEST WITH CUCUMBER SELENIUM AND JAVA
 - This is a gradle project that uses Cucumber, Selenium, JUnit, POM and Java to automate a web page.
 
 #### PREREQUISITES:
